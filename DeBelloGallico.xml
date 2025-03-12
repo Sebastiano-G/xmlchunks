@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 type="Book" n="1" org="uniform" sample="complete"><milestone n="1" unit="chapter" />
+                <p>All <name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name> is divided into three parts, one of which the <name type="ethnic">Belgae</name> inhabit, the <name type="ethnic">Aquitani</name>
+                    another, those who in their own language are called <name type="ethnic">Celts</name>, in our <name type="ethnic">Gauls</name>, the third. All these
+                    differ from each other in language, customs and laws. The river <name key="tgn,1124123" type="place" reg="Garonne [-0.6,45.33] (river), Europe">Garonne</name> separates the <name type="ethnic">Gauls</name> from the
+                        <name type="ethnic">Aquitani</name>; the <name key="tgn,7009327" type="place" reg="Marne [4.183,48.916] (river), Champagne-Ardenne, France, Europe">
+                        <placeName key="tgn,7009327" authname="tgn,7009327">Marne</placeName>
+                    </name> and the <name key="tgn,7009707" type="place" reg="Seine [0.433,49.433] (river), France, Europe">
+                        <placeName key="tgn,7009707" authname="tgn,7009707">Seine</placeName>
+                    </name> separate them from the <name>Belgae</name>. Of all these, the
+                        <name>Belgae</name> are the bravest, because they are furthest from the
+                    civilization and refinement of [our] Province, and merchants least frequently
+                    resort to them, and import those things which tend to effeminate the mind; and
+                    they are the nearest to the <name type="ethnic">Germans</name>, who dwell beyond
+                    the <name key="tgn,7012611" type="place" reg="Rhine [6,51.833] (river), Europe">
+                        <placeName key="tgn,7012611" authname="tgn,7012611">Rhine</placeName>
+                    </name>, with whom they are continually waging war; for which reason the <name type="ethnic">Helvetii</name> also surpass the rest of the <name type="ethnic">Gauls</name> in valor, as they contend with the <name type="ethnic">Germans</name> in almost daily battles, when they either repel
+                    them from their own territories, or themselves wage war on their frontiers. One
+                    part of these, which it has been said that the <name type="ethnic">Gauls</name>
+                    occupy, takes its beginning at the river <name key="tgn,7023890" type="place" reg="Rhone [4.833,43.333] (river), Europe">
+                        <placeName key="tgn,7023890" authname="tgn,7023890">Rhone</placeName>
+                    </name>; it is bounded by the river <name key="tgn,1124123" type="place" reg="Garonne [-0.6,45.33] (river), Europe">Garonne</name>, the ocean, and
+                    the territories of the <name>Belgae</name>; it borders, too, on the side of the
+                        <name>Sequani</name> and the <name type="ethnic">Helvetii</name>, upon the
+                    river <name key="tgn,7012611" type="place" reg="Rhine [6,51.833] (river), Europe">
+                        <placeName key="tgn,7012611" authname="tgn,7012611">Rhine</placeName>
+                    </name>, and stretches toward the north. The <name>Belgae</name> rises from the
+                    extreme frontier of <name key="tgn,1000070" type="place" reg="France [2,46] (nation), Europe">Gaul</name>, extend to the lower part
+                    of the river <name key="tgn,7012611" type="place" reg="Rhine [6,51.833] (river), Europe">
+                        <placeName key="tgn,7012611" authname="tgn,7012611">Rhine</placeName>
+                    </name>; and look toward the north and the rising sun. <name key="tgn,7002878" type="place" reg="Aquitaine [1,44.583] (region), France, Europe">
+                        <placeName key="tgn,7002878" authname="tgn,7002878">Aquitania</placeName>
+                    </name> extends from the river <name key="tgn,1124123" type="place" reg="Garonne [-0.6,45.33] (river), Europe">Garonne</name> to the <name type="place">Pyrenaean mountains</name> and to that part of the ocean which
+                    is near <name key="tgn,1000095" type="place" reg="Spain [-4,40] (nation), Europe">Spain</name>: it looks between the
+                    setting of the sun, and the north star. </p></div1></body></text></TEI.2>
